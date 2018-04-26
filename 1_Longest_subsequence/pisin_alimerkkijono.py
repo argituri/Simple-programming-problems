@@ -11,7 +11,7 @@ class tulos:
 		self.merkkijono = merkkijono
 		self.pituus = pituus
 
-# Metodi joka tulostaa objektin (käytännössä luokan tulos instanssin) merkkijonon ja pituuden. Tämän pitäisi varmaan olla luokassa tulos
+# Metodi joka tulostaa objektin (käytännössä luokan tulos instanssin) merkkijonon ja pituuden. Tämän voisi olla luokassa tulos
 # Method that prints out the attributes merkkijono and pituus of object objekti.
 
 def tulostaMerkkijono(objekti):
